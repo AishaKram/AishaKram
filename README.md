@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Aisha!
-- 👀 I’m interested in an internship in Software Engineering.
-- 🌱 I’m currently doing an undergrad in Comp Sci. 
+- 👀 I’m interested in opportunities regarding Software Engineering and UX/UI design.
+- 🌱 I recently completed an undergrad in Comp Sci. 
 - ⚡ Fun fact: I was apart of the Step Up 2024 tech accelerator programme :)
 
 <!---
