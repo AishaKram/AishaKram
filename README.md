@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Aisha!
 - 👀 I’m interested in opportunities regarding Software Engineering and UX/UI design.
-- 🌱 I recently completed an undergrad in Comp Sci. 
+- 🌱 I recently completed an undergrad in Comp Sci and was awarded a 1st! 
 - ⚡ Fun fact: I was apart of the Step Up 2024 tech accelerator programme :)
 
 <!---
